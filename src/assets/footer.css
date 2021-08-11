@@ -1,0 +1,60 @@
+.navFooter {
+  height: 220px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #000;
+  color: #bbc0c4;
+  padding: 64px 20px 32px 40px;
+  justify-content: space-around;
+}
+
+.nav-container {
+  flex-grow: 1;
+}
+
+.imglogo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 0 0 0;
+}
+
+.imglogo .kotakode {
+  width: 106px;
+  height: 98px;
+}
+
+.imglogo .google {
+  width: 200px;
+  background-color: #fff;
+  margin-left: 10px;
+}
+
+.nav-container ul {
+  padding: 0;
+}
+
+.footerLink {
+  list-style: none;
+  padding: 10px 0 0 0;
+}
+
+.footerLink a {
+  text-decoration: none;
+  color: #848d95;
+}
+
+.mailto a {
+  text-decoration: none;
+  color: #848d95;
+}
+
+.headerFooter {
+  font-size: 14px;
+}
+
+.footerWrap {
+  padding: 10px;
+  background-color: #000;
+  color: #bbc0c4;
+}

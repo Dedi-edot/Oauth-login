@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "fullname": "Dedi",
+      "username": "edot",
+      "email": "email.com",
+      "password": "Edhot111",
+      "role": "admin",
+      "id": 1
+    }
+  ]
+}
